@@ -18,7 +18,7 @@ Welcome to our space portal, where curiosity knows no bounds. Dive into the intr
 Here is the live view of this website. It is hosted on Netlify : [https://spacify-harshitakaushik.netlify.app/]
 
 <div align="center"><h1>📽️ Video Demo</h1></div>
-[https://github.com/harshita-kaushik2/Spacify/assets/112249538/5701b763-65ab-494b-b5f5-7703ef12454a](https://github.com/harshita-kaushik2/Spacify/assets/112249538/7993ca38-ce79-4eb4-b1ef-aea2de5dae7d)
+https://github.com/harshita-kaushik2/Spacify/assets/112249538/7993ca38-ce79-4eb4-b1ef-aea2de5dae7d
 
 
 <div align="center"><h1>⚡ Tech Stack Used</h1></div>
