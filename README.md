@@ -22,38 +22,65 @@ https://github.com/harshita-kaushik2/Spacify/assets/112249538/5701b763-65ab-494b
 
 
 <div align="center"><h1>⚡ Tech Stack Used</h1></div>
-<p align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-</p>
 
 <div align="center"><h1>🫱🏻‍🫲🏻 Contributing to Spacify </h1></div>
-1. Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
-2. Clone the forked repository to your local machine.
-3. Make your branch from test branch.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-```markdown
-git clone https://github.com/your-username/Spacify.git
+We welcome contributions through pull requests (PRs). To submit a PR, please follow these steps:
+
+1. Fork the Project
+2. Clone your forked repository
+
+```sh
+git clone https://github.com/<your_github_username>/Spacify.git
 ```
 
-3. Change the present working directory
+3. Now go ahead and create a new branch and move to the branch
 
-```markdown
-cd Spacify
+```sh
+git checkout -b fix-issue-<ISSUE-NUMBER>
 ```
 
-5. Make your changes
+4. After you have added your changes, follow the following command chain
+   Check the changed files
 
-```markdown
+```sh
+git status -s
+```
+
+- Add all the files to the staging area
+
+```sh
 git add .
-git commit -m "Your commit Message"
-git push origin branch-name
 ```
 
-- Make a pull request.
-- Star the repository.
+or
 
+```sh
+git add <file_name1> <file_name2>
+```
+
+5. Commit your changes
+
+```sh
+git commit -m "<EXPLAIN-YOUR_CHANGES>"
+```
+
+6. Push your changes
+
+```sh
+git push origin fix-issue-<ISSUE-NUMBER>
+```
+
+7. Open a Pull Request
+
+- Make a pull request! (compare your branch with the owner main branch)
+```
+- Star the repository.
 
 
 Show some ❤️ by starring this awesome repository!
