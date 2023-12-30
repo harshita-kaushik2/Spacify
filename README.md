@@ -7,21 +7,27 @@ This beautifully designed website, was made out of an effort to share my interes
 
 Welcome to our space portal, where curiosity knows no bounds. Dive into the intriguing quest for life on Mars, journey through the mysteries of our awe-inspiring solar system, celebrate ISRO's groundbreaking achievements, and embark on epic space expeditions that push the boundaries of exploration. Join us as we unravel the cosmos, one discovery at a time.
 
-<div align="center"><h1>📃 Table of Content</h1></div>
+## 📃 Table of Content
 - [Introduction](#Introduction)
-- [Live Demo](#💻 Live Demo )
-* [Video Demo]
-* [Tech Stack Used]
-* [Contributing to Spacify]
+- [Live Demo](#)
+* [Video Demo](#)
+* [Tech Stack Used](#)
+* [Contributing to Spacify](#)
 
-<div align="center"><h1>💻 Live Demo </h1></div>
+## 💻 Live Demo
 Here is the live view of this website. It is hosted on Netlify : [https://spacify-harshitakaushik.netlify.app/]
 
-<div align="center"><h1>📽️ Video Demo</h1></div>
-Here is the link to working video demo of the website : [Link] (https://github.com/harshita-kaushik2/Spacify/assets/112249538/7993ca38-ce79-4eb4-b1ef-aea2de5dae7d)
+## 📽️ Video Demo
+https://github.com/harshita-kaushik2/Spacify/assets/112249538/7993ca38-ce79-4eb4-b1ef-aea2de5dae7d
 
 
-<div align="center"><h1>🫱🏻‍🫲🏻 Contributing to Spacify </h1></div>
+## ⚡ Tech Stack Used
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🫱🏻‍🫲🏻 Contributing to Spacify
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 We welcome contributions through pull requests (PRs). To submit a PR, please follow these steps:
@@ -72,9 +78,5 @@ git push origin fix-issue-<ISSUE-NUMBER>
 
 7. Open a Pull Request
 
-- Make a pull request! (compare your branch with the owner main branch)
-```
-- Star the repository.
 
-
-Show some ❤️ by starring this awesome repository!
+<h2 align="center" font-size="10">Show some ❤️ by starring this awesome repository!</h2>
