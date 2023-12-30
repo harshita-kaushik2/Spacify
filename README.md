@@ -1,5 +1,5 @@
 <h1 align="center" font-size="12">Introducing Spacify</h1>
-<h1 align="center" font-size="10">Igniting Cosmic Curiosity through Code 🚀</h1>
+<h2 align="center" font-size="10">Igniting Cosmic Curiosity through Code 🚀</h2>
 
 <img width="960" alt="Cover" src="https://github.com/harshita-kaushik2/Spacify/assets/112249538/ee63725c-da8b-4bcd-baa8-b89bee719a02">
 
@@ -8,11 +8,11 @@ This beautifully designed website, was made out of an effort to share my interes
 Welcome to our space portal, where curiosity knows no bounds. Dive into the intriguing quest for life on Mars, journey through the mysteries of our awe-inspiring solar system, celebrate ISRO's groundbreaking achievements, and embark on epic space expeditions that push the boundaries of exploration. Join us as we unravel the cosmos, one discovery at a time.
 
 <div align="center"><h1>📃 Table of Content</h1></div>
-*[Introduction]
-*[Live Demo]
-*[Video Demo]
-*[Tech Stack Used]
-*[Contributing to Spacify]
+- [Introduction](#Introduction)
+- [Live Demo](#💻 Live Demo )
+* [Video Demo]
+* [Tech Stack Used]
+* [Contributing to Spacify]
 
 <div align="center"><h1>💻 Live Demo </h1></div>
 Here is the live view of this website. It is hosted on Netlify : [https://spacify-harshitakaushik.netlify.app/]
